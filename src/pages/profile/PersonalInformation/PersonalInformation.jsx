@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import styles from "./PersonalInformation.module.css";
 import { updateUserDataApi } from "../../../redux/auth/authApis";
-import image from "../../../assets/user.png";
+// import image from "../../../assets/user.png";
 
 const PersonalInformation = () => {
   const authData = useSelector((state) => state.auth);
@@ -66,7 +66,7 @@ const PersonalInformation = () => {
         <div className={styles.profileCard}>
           <div className={styles.profileHeader}>
             <div className={styles.avatarContainer}>
-              <img src={image} alt="Profile" className={styles.avatar} />
+              <img src='/user.png' alt="Profile" className={styles.avatar} />
             </div>
             <div className={styles.profileInfo}>
               <h3 className={styles.profileName}>{formData.username ? formData.username.split(" ")[0] : "-"}</h3>
