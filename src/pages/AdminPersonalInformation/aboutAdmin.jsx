@@ -3,7 +3,7 @@ import styles from "./aboutAdmin.module.css";
 import {useUsers } from "../../redux/admin/adminsApis";
 import { useDispatch, useSelector } from "react-redux";
 import { updateUserDataApi } from "../../redux/auth/authApis";
-import image from "../../assets/user.png";
+// import image from "../../assets/user.png";
 
 function getTotalBillsSum(users) {
   let total = 0;
@@ -88,7 +88,7 @@ const PersonalInformation = () => {
         <div className={styles.profileCard}>
           <div className={styles.profileHeader}>
             <div className={styles.avatarContainer}>
-              <img src={image} alt="Profile" className={styles.avatar} />
+              <img src="/user.png" alt="Profile" className={styles.avatar} />
             </div>
             <div className={styles.profileInfo}>
               <h3 className={styles.profileName}>{formData.username ? formData.username : "-"}</h3>
