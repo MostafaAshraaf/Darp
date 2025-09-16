@@ -1,0 +1,439 @@
+{
+  "admin": [
+    {
+      "id": "admin",
+      "username": "أشَّف 👌",
+      "email": "ashaf@gmail.com",
+      "password": "123456",
+      "age": 38,
+      "specialty": "Admin",
+      "role": "admin",
+      "phoneNumber": "0123456789"
+    },
+    {
+      "id": "admin1",
+      "username": "Fathy",
+      "email": "fathymemo24@gmail.com",
+      "password": "#Darb@2002#",
+      "age": 23,
+      "specialty": "Admin",
+      "role": "admin",
+      "phoneNumber": "01149260444"
+    },
+    {
+      "id": "admin2",
+      "username": "Amr",
+      "email": "amrok461@gmail.com",
+      "password": "#Darb@2002#",
+      "age": 23,
+      "specialty": "Admin",
+      "role": "admin",
+      "phoneNumber": "0123456789"
+    },
+    {
+      "id": "admin3",
+      "username": "Morsi",
+      "email": "Seniormorsi02@gmail.com",
+      "password": "#Darb@2002#",
+      "age": 23,
+      "specialty": "Admin",
+      "role": "admin",
+      "phoneNumber": "0123456789"
+    }
+  ],
+  "users": [
+    {
+      "id": "0d64",
+      "username": "Mostafa",
+      "email": "mostafa.asiwy@gmail.com",
+      "password": "123456",
+      "phoneNumber": "0114003012",
+      "age": 20,
+      "gender": "male",
+      "role": "client",
+      "address": "",
+      "cartInfo": {
+        "cart": [
+          {
+            "product": {
+              "id": "LAHAF",
+              "name": "LAHAF",
+              "brand": "Darb",
+              "desc": "Bold fragrance balancing freedom, femininity, unforgettable signature trail.",
+              "inspiredBy": "Libre YSL",
+              "type": "Women's perfume",
+              "price": 450,
+              "maxQuantity": 74,
+              "sales": 7,
+              "url": "../src/assets/Darb/LAHAF.png",
+              "reviews": [],
+              "rating": "0"
+            },
+            "quantity": 1
+          }
+        ],
+        "isEmpty": false,
+        "totalPrice": 450
+      },
+      "billsHistory": [
+        {
+          "id": "bill_1757795325598_qpjgvtyol",
+          "products": [
+            {
+              "id": "NAJM",
+              "img": "../src/assets/Darb/NAJM.png",
+              "title": "NAJM",
+              "price": 450,
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 405,
+          "orderDate": "2025-09-13T20:28:45.598Z",
+          "location": "testt",
+          "paymentMethod": "WhatsApp",
+          "status": "pending",
+          "discount": {
+            "amount": 45,
+            "type": "First order discount (10%)",
+            "finalPrice": 405
+          }
+        }
+      ],
+      "cardNumber": "",
+      "cardExpiry": "",
+      "cardCVC": "",
+      "cardHolder": "",
+      "bannInfo": {
+        "isBanned": false,
+        "reason": ""
+      }
+    }
+  ],
+  "pannedEmails": [],
+  "products": [
+    {
+      "id": "SHAGHAF",
+      "name": "SHAGHAF",
+      "brand": "Darb",
+      "desc": "A passionate fragrance for modern Women's perfume embracing love and freedom.",
+      "inspiredBy": "Burberry Her",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 85,
+      "sales": 18,
+      "url": "../src/assets/Darb/SHAGHAF.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "HAIBAH",
+      "name": "HAIBAH",
+      "brand": "Darb",
+      "desc": "Timeless masculine elegance, quiet confidence, leaving unforgettable legendary mark.",
+      "inspiredBy": "Montblanc Legend",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 78,
+      "sales": 16,
+      "url": "../src/assets/Darb/HAIBAH.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "FARIS",
+      "name": "FARIS",
+      "brand": "Darb",
+      "desc": "Courageous fragrance, triumphant masculinity, victory captured in every note.",
+      "inspiredBy": "Invictus Victory Elixir",
+      "type": "Men's perfume",
+      "price": 650,
+      "maxQuantity": 90,
+      "sales": 19,
+      "url": "../src/assets/Darb/FARIS.png",
+      "reviews": [
+        {
+          "clientId": "0d64",
+          "clientName": "Mostafa",
+          "comment": "this is test",
+          "rating": 4,
+          "timestamp": "2025-09-12T21:06:32.045Z"
+        }
+      ],
+      "rating": "4.0"
+    },
+    {
+      "id": "ASR",
+      "name": "ASR",
+      "brand": "Darb",
+      "desc": "Seductive tropical scent, magnetic masculinity captivating senses completely.",
+      "inspiredBy": "Le Beau Le Parfum",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 72,
+      "sales": 12,
+      "url": "../src/assets/Darb/ASR.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "BAREEQ",
+      "name": "BAREEQ",
+      "brand": "Darb",
+      "desc": "Duality of light and mystery, celebrating feminine strength and beauty.",
+      "inspiredBy": "Good Girl",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 88,
+      "sales": 9,
+      "url": "../src/assets/Darb/BAREEQ.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "BARQ",
+      "name": "BARQ",
+      "brand": "Darb",
+      "desc": "Stormy contrast fragrance, mysterious masculinity balancing power and allure.",
+      "inspiredBy": "Bad Boy",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 92,
+      "sales": 20,
+      "url": "../src/assets/Darb/BARQ.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "GHEWAA",
+      "name": "GHEWAA",
+      "brand": "Darb",
+      "desc": "Indulgent sweetness of marshmallow and vanilla, soft irresistible charm.",
+      "inspiredBy": "Kayali yum boujee marshmallow",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 80,
+      "sales": 15,
+      "url": "../src/assets/Darb/GHEWAA.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "HAJIS",
+      "name": "HAJIS",
+      "brand": "Darb",
+      "desc": "Imaginative fragrance, limitless dreams transformed into captivating masculine reality.",
+      "inspiredBy": "LV Imagination",
+      "type": "Men's perfume",
+      "price": 800,
+      "maxQuantity": 87,
+      "sales": 17,
+      "url": "../src/assets/Darb/HAJIS.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "HANEEN",
+      "name": "HANEEN",
+      "brand": "Darb",
+      "desc": "Warm comforting memories, nostalgic fragrance wrapping soul with tenderness.",
+      "inspiredBy": "Kayali Vanilla 28",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 94,
+      "sales": 10,
+      "url": "../src/assets/Darb/HANEEN.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "HAYAM",
+      "name": "HAYAM",
+      "brand": "Darb",
+      "desc": "Bold, audacious scent embodying power, femininity, and magnetic allure.",
+      "inspiredBy": "Scandal JPG",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 76,
+      "sales": 13,
+      "url": "../src/assets/Darb/HAYAM.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "ILHAM",
+      "name": "ILHAM",
+      "brand": "Darb",
+      "desc": "Natural elegance, timeless inspiration, pure femininity with subtle seduction.",
+      "inspiredBy": "La Belle JPG",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 89,
+      "sales": 8,
+      "url": "../src/assets/Darb/ILHAM.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "ISHQ",
+      "name": "ISHQ",
+      "brand": "Darb",
+      "desc": "Passionate fragrance, celebrating love, freedom, and intensity of life.",
+      "inspiredBy": "Sì Passione",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 81,
+      "sales": 11,
+      "url": "../src/assets/Darb/ISHQ.png",
+      "reviews": [
+        {
+          "clientId": "0d64",
+          "clientName": "Mostafa",
+          "comment": "this is test",
+          "rating": 4,
+          "timestamp": "2025-09-12T22:06:34.107Z"
+        }
+      ],
+      "rating": "4.0"
+    },
+    {
+      "id": "JANNAH",
+      "name": "JANNAH",
+      "brand": "Darb",
+      "desc": "Playful garden fragrance, vibrant happiness, joy blooming every step.",
+      "inspiredBy": "Kayali Eden Juicy Apple 01",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 93,
+      "sales": 14,
+      "url": "../src/assets/Darb/JANNAH.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "LAHAF",
+      "name": "LAHAF",
+      "brand": "Darb",
+      "desc": "Bold fragrance balancing freedom, femininity, unforgettable signature trail.",
+      "inspiredBy": "Libre YSL",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 74,
+      "sales": 7,
+      "url": "../src/assets/Darb/LAHAF.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "MAJD",
+      "name": "MAJD",
+      "brand": "Darb",
+      "desc": "Ambitious fragrance, creative spirit, masculinity pursuing passion’s ultimate glory.",
+      "inspiredBy": "Y YSL",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 15,
+      "url": "../src/assets/Darb/MAJD.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "NAJM",
+      "name": "NAJM",
+      "brand": "Darb",
+      "desc": "Captivating fruity trail, masculine brilliance shining with magnetic presence.",
+      "inspiredBy": "Kirke Tiziana Terenzi",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 6,
+      "url": "../src/assets/Darb/NAJM.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "NEEL",
+      "name": "NEEL",
+      "brand": "Darb",
+      "desc": "Fresh masculine freedom, strength, direction, and wisdom in fragrance.",
+      "inspiredBy": "Bleu de Chanel",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 10,
+      "url": "../src/assets/Darb/NEEL.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "SATWA",
+      "name": "SATWA",
+      "brand": "Darb",
+      "desc": "Masculine power, fruity freshness, scent creating paths with strength.",
+      "inspiredBy": "Xerjoff Erba Pura",
+      "type": "Men's perfume",
+      "price": 650,
+      "maxQuantity": 91,
+      "sales": 13,
+      "url": "../src/assets/Darb/SATWA.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "SHUMOOKH",
+      "name": "SHUMOOKH",
+      "brand": "Darb",
+      "desc": "Untamed masculine freedom, summit-seeking strength, wild authentic allure.",
+      "inspiredBy": "Sauvage Dior",
+      "type": "Men's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 15,
+      "url": "../src/assets/Darb/SHUMOOKH.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "TIARA",
+      "name": "TIARA",
+      "brand": "Darb",
+      "desc": "Radiant, joyful scent reflecting femininity, freedom, and refreshing spirit.",
+      "inspiredBy": "D&G L'Impératrice",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 8,
+      "url": "../src/assets/Darb/TIARA.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "WARD",
+      "name": "WARD",
+      "brand": "Darb",
+      "desc": "Romantic floral bouquet, delicate femininity, love’s tender radiant expression.",
+      "inspiredBy": "Love Is Heavenly Victoria's Secret",
+      "type": "Women's perfume",
+      "price": 450,
+      "maxQuantity": 91,
+      "sales": 11,
+      "url": "../src/assets/Darb/WARD.png",
+      "reviews": [],
+      "rating": "0"
+    },
+    {
+      "id": "Discovery set",
+      "name": "Discovery set",
+      "brand": "Darb",
+      "desc": "Choose a collection of perfumes yourself",
+      "inspiredBy": "Darb",
+      "type": "Both",
+      "price": 450,
+      "maxQuantity": 100,
+      "sales": 50,
+      "url": "../src/assets/Darb/DISCOVERY_SET.png",
+      "reviews": [],
+      "rating": "0"
+    }
+  ]
+}
