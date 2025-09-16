@@ -121,9 +121,9 @@
       "price": 450,
       "maxQuantity": 85,
       "sales": 18,
-      "url": "../src/assets/Darb/SHAGHAF.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/SHAGHAF.png"
     },
     {
       "id": "HAIBAH",
@@ -135,9 +135,9 @@
       "price": 450,
       "maxQuantity": 78,
       "sales": 16,
-      "url": "../src/assets/Darb/HAIBAH.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/HAIBAH.png"
     },
     {
       "id": "FARIS",
@@ -149,7 +149,6 @@
       "price": 650,
       "maxQuantity": 90,
       "sales": 19,
-      "url": "../src/assets/Darb/FARIS.png",
       "reviews": [
         {
           "clientId": "0d64",
@@ -159,7 +158,8 @@
           "timestamp": "2025-09-12T21:06:32.045Z"
         }
       ],
-      "rating": "4.0"
+      "rating": "4.0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/FARIS.png"
     },
     {
       "id": "ASR",
@@ -171,9 +171,9 @@
       "price": 450,
       "maxQuantity": 72,
       "sales": 12,
-      "url": "../src/assets/Darb/ASR.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/ASR.png"
     },
     {
       "id": "BAREEQ",
@@ -185,9 +185,9 @@
       "price": 450,
       "maxQuantity": 88,
       "sales": 9,
-      "url": "../src/assets/Darb/BAREEQ.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/BAREEQ.png"
     },
     {
       "id": "BARQ",
@@ -199,9 +199,9 @@
       "price": 450,
       "maxQuantity": 92,
       "sales": 20,
-      "url": "../src/assets/Darb/BARQ.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/BARQ.png"
     },
     {
       "id": "GHEWAA",
@@ -213,9 +213,9 @@
       "price": 450,
       "maxQuantity": 80,
       "sales": 15,
-      "url": "../src/assets/Darb/GHEWAA.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/GHEWAA.png"
     },
     {
       "id": "HAJIS",
@@ -227,9 +227,9 @@
       "price": 800,
       "maxQuantity": 87,
       "sales": 17,
-      "url": "../src/assets/Darb/HAJIS.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/HAJIS.png"
     },
     {
       "id": "HANEEN",
@@ -241,9 +241,9 @@
       "price": 450,
       "maxQuantity": 94,
       "sales": 10,
-      "url": "../src/assets/Darb/HANEEN.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/HANEEN.png"
     },
     {
       "id": "HAYAM",
@@ -255,9 +255,9 @@
       "price": 450,
       "maxQuantity": 76,
       "sales": 13,
-      "url": "../src/assets/Darb/HAYAM.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/HAYAM.png"
     },
     {
       "id": "ILHAM",
@@ -269,9 +269,9 @@
       "price": 450,
       "maxQuantity": 89,
       "sales": 8,
-      "url": "../src/assets/Darb/ILHAM.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/ILHAM.png"
     },
     {
       "id": "ISHQ",
@@ -283,7 +283,6 @@
       "price": 450,
       "maxQuantity": 81,
       "sales": 11,
-      "url": "../src/assets/Darb/ISHQ.png",
       "reviews": [
         {
           "clientId": "0d64",
@@ -293,7 +292,8 @@
           "timestamp": "2025-09-12T22:06:34.107Z"
         }
       ],
-      "rating": "4.0"
+      "rating": "4.0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/ISHQ.png"
     },
     {
       "id": "JANNAH",
@@ -305,9 +305,9 @@
       "price": 450,
       "maxQuantity": 93,
       "sales": 14,
-      "url": "../src/assets/Darb/JANNAH.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/JANNAH.png"
     },
     {
       "id": "LAHAF",
@@ -319,9 +319,9 @@
       "price": 450,
       "maxQuantity": 74,
       "sales": 7,
-      "url": "../src/assets/Darb/LAHAF.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/LAHAF.png"
     },
     {
       "id": "MAJD",
@@ -333,9 +333,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 15,
-      "url": "../src/assets/Darb/MAJD.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/MAJD.png"
     },
     {
       "id": "NAJM",
@@ -347,9 +347,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 6,
-      "url": "../src/assets/Darb/NAJM.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/NAJM.png"
     },
     {
       "id": "NEEL",
@@ -361,9 +361,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 10,
-      "url": "../src/assets/Darb/NEEL.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/NEEL.png"
     },
     {
       "id": "SATWA",
@@ -375,9 +375,9 @@
       "price": 650,
       "maxQuantity": 91,
       "sales": 13,
-      "url": "../src/assets/Darb/SATWA.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/SATWA.png"
     },
     {
       "id": "SHUMOOKH",
@@ -389,9 +389,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 15,
-      "url": "../src/assets/Darb/SHUMOOKH.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/SHUMOOKH.png"
     },
     {
       "id": "TIARA",
@@ -403,9 +403,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 8,
-      "url": "../src/assets/Darb/TIARA.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/TIARA.png"
     },
     {
       "id": "WARD",
@@ -417,9 +417,9 @@
       "price": 450,
       "maxQuantity": 91,
       "sales": 11,
-      "url": "../src/assets/Darb/WARD.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/WARD.png"
     },
     {
       "id": "Discovery set",
@@ -431,9 +431,9 @@
       "price": 450,
       "maxQuantity": 100,
       "sales": 50,
-      "url": "../src/assets/Darb/DISCOVERY_SET.png",
       "reviews": [],
-      "rating": "0"
+      "rating": "0",
+      "url": "https://raw.githubusercontent.com/MostafaAshraaf/Darp/main/public/images/Darb/DISCOVERY_SET.png"
     }
   ]
 }
